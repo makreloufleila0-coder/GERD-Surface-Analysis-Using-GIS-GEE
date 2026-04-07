@@ -4,8 +4,10 @@
 This project provides a comprehensive spatial analysis of the **Grand Ethiopian Renaissance Dam (GERD)** using Remote Sensing and GIS techniques. The study monitors environmental changes, water surface area, and vegetation health during various filling stages (2019-2024).
 
 ## Key Features 🛰️
-* **Satellite Imagery:** Landsat 8/9 & Sentinel-2 data.
-* **Spectral Indices:** NDVI (Vegetation), NDTI (Turbidity), and MNDWI (Water).
+* **Satellite Imagery:** Landsat 8 & Sentinel-2 data.
+* **Spectral Indices:** NDVI (Vegetation),and NDWI (Water).
+
+
 * **Tools:** Google Earth Engine (GEE) for processing & ArcGIS Pro for visualization.
 
 ## Detailed Results & Findings (2019 - 2024) 📊
